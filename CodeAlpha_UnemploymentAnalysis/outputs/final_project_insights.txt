@@ -1,0 +1,36 @@
+
+CODEALPHA - TASK 2
+UNEMPLOYMENT ANALYSIS IN INDIA
+========================================
+
+DATASET OVERVIEW
+Total records: 740
+Total states/regions: 28
+Date range: 2019-05-31 to 2020-06-30
+
+OVERALL FINDINGS
+Average unemployment rate: 11.79%
+Maximum unemployment rate: 76.74%
+Minimum unemployment rate: 0.00%
+
+STATE-WISE FINDINGS
+Highest average: Tripura (28.35%)
+Lowest average: Meghalaya (4.80%)
+
+MONTHLY FINDINGS
+Highest monthly average: May 2020
+Rate: 24.88%
+
+AREA-WISE FINDINGS
+area
+Rural    10.324791
+Urban    13.166614
+
+COVID-19 PERIOD COMPARISON
+period
+Lockdown Period    17.774363
+Pre-Lockdown        9.509534
+
+NOTE
+This is descriptive analysis of the available dataset.
+The before-and-during comparison does not establish causation.
