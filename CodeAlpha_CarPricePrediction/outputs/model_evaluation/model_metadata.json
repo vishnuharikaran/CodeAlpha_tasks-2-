@@ -1,0 +1,64 @@
+{
+  "selected_model": "Gradient Boosting Regressor",
+  "evaluation_metrics": {
+    "MAE": 0.6215,
+    "MSE": 1.3932,
+    "RMSE": 1.1803,
+    "R2_Score": 0.9072
+  },
+  "cross_validation_metrics": {
+    "CV_R2_Mean": 0.859,
+    "CV_R2_Std": 0.1065,
+    "CV_RMSE_Mean": 1.7775
+  },
+  "raw_input_features": [
+    "Year",
+    "Present_Price",
+    "Kms_Driven",
+    "Fuel_Type",
+    "Seller_Type",
+    "Transmission",
+    "Owner"
+  ],
+  "engineered_features": [
+    "Present_Price",
+    "Kms_Driven",
+    "Owner",
+    "Car_Age",
+    "Fuel_Type",
+    "Seller_Type",
+    "Transmission"
+  ],
+  "transformed_feature_names": [
+    "Present_Price",
+    "Kms_Driven",
+    "Owner",
+    "Car_Age",
+    "Fuel_Type_CNG",
+    "Fuel_Type_Diesel",
+    "Fuel_Type_Petrol",
+    "Seller_Type_Dealer",
+    "Seller_Type_Individual",
+    "Transmission_Automatic",
+    "Transmission_Manual"
+  ],
+  "reference_year": 2026,
+  "dataset_info": {
+    "initial_rows": 301,
+    "missing_values_found": 0,
+    "rows_dropped_for_missing": 0,
+    "duplicate_rows_removed": 2,
+    "invalid_domain_rows_removed": 0,
+    "final_rows": 299,
+    "train_rows": 239,
+    "test_rows": 60,
+    "target_column": "Selling_Price",
+    "target_unit": "Lakhs INR"
+  },
+  "training_config": {
+    "test_size": 0.2,
+    "random_state": 42,
+    "cv_splits": 5,
+    "stratified_by_target_quintiles": true
+  }
+}

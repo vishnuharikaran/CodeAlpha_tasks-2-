@@ -1,0 +1,61 @@
+Car_Name,Year,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,Car_Age,Actual_Selling_Price,Predicted_Selling_Price,Residual,Absolute_Error
+ertiga,2016,10.79,43000,Diesel,Dealer,Manual,0,10,7.75,8.1879,-0.4379,0.4379
+i20,2017,8.1,3435,Petrol,Dealer,Manual,0,9,7.9,6.8499,1.0501,1.0501
+verna,2012,9.4,60000,Diesel,Dealer,Manual,0,14,4.95,5.0156,-0.0656,0.0656
+city,2013,9.9,56701,Petrol,Dealer,Manual,0,13,5.0,5.1091,-0.1091,0.1091
+corolla altis,2013,18.61,45000,Petrol,Dealer,Manual,0,13,7.05,6.9743,0.0757,0.0757
+camry,2006,23.73,142000,Petrol,Individual,Automatic,3,20,2.5,9.1721,-6.6721,6.6721
+Royal Enfield Thunder 350,2011,1.5,6900,Petrol,Individual,Manual,0,15,1.05,1.0035,0.0465,0.0465
+wagon r,2013,4.41,56879,Petrol,Dealer,Manual,0,13,2.9,2.6591,0.2409,0.2409
+Bajaj Pulsar 150,2015,0.74,5000,Petrol,Individual,Manual,0,11,0.65,0.8199,-0.1699,0.1699
+Honda Activa 4G,2017,0.51,4300,Petrol,Individual,Automatic,0,9,0.48,0.5475,-0.0675,0.0675
+dzire,2015,7.2,48767,Petrol,Dealer,Manual,0,11,4.65,4.3192,0.3308,0.3308
+city,2017,12.5,9000,Diesel,Dealer,Manual,0,9,11.5,10.0341,1.4659,1.4659
+sx4,2003,7.98,62000,Petrol,Dealer,Manual,0,23,2.25,2.1088,0.1412,0.1412
+Bajaj Pulsar 135 LS,2014,0.64,13700,Petrol,Individual,Manual,0,12,0.4,0.4104,-0.0104,0.0104
+Bajaj Avenger 150,2016,0.8,7000,Petrol,Individual,Manual,0,10,0.75,0.6585,0.0915,0.0915
+fortuner,2012,30.61,89000,Diesel,Dealer,Automatic,0,14,14.5,15.6886,-1.1886,1.1886
+i20,2011,6.79,31604,Petrol,Dealer,Manual,0,15,2.9,3.4232,-0.5232,0.5232
+fortuner,2014,35.96,78000,Diesel,Dealer,Automatic,0,12,18.75,20.8672,-2.1172,2.1172
+ignis,2017,5.71,2400,Petrol,Dealer,Manual,0,9,4.9,5.221,-0.321,0.321
+verna,2017,9.4,15001,Petrol,Dealer,Manual,0,9,9.25,8.3186,0.9314,0.9314
+sx4,2011,8.01,50000,Petrol,Dealer,Automatic,0,15,4.4,3.306,1.094,1.094
+xcent,2017,7.13,12479,Petrol,Dealer,Manual,0,9,5.75,5.1929,0.5571,0.5571
+verna,2012,9.4,36100,Petrol,Dealer,Manual,0,14,4.5,4.7061,-0.2061,0.2061
+Royal Enfield Classic 500,2009,1.75,40000,Petrol,Individual,Manual,0,17,0.9,0.711,0.189,0.189
+i20,2016,7.6,7000,Petrol,Dealer,Manual,0,10,6.25,4.9288,1.3212,1.3212
+sx4,2010,7.98,41442,Petrol,Dealer,Manual,0,16,2.65,2.7407,-0.0907,0.0907
+i20,2013,6.79,32000,Petrol,Dealer,Automatic,0,13,4.5,4.057,0.443,0.443
+grand i10,2017,5.7,20114,Petrol,Dealer,Manual,0,9,5.25,5.0793,0.1707,0.1707
+Bajaj Discover 125,2012,0.57,25000,Petrol,Individual,Manual,1,14,0.2,0.2786,-0.0786,0.0786
+Bajaj Avenger 220,2017,0.95,3500,Petrol,Individual,Manual,0,9,0.75,0.8041,-0.0541,0.0541
+Bajaj Pulsar  NS 200,2014,0.99,25000,Petrol,Individual,Manual,0,12,0.6,0.6172,-0.0172,0.0172
+Honda Activa 4G,2017,0.51,4000,Petrol,Individual,Automatic,0,9,0.45,0.5475,-0.0975,0.0975
+i20,2014,7.6,77632,Diesel,Dealer,Manual,0,12,6.0,3.943,2.057,2.057
+KTM RC200,2017,1.78,4000,Petrol,Individual,Manual,0,9,1.65,1.3719,0.2781,0.2781
+innova,2005,13.46,197176,Diesel,Dealer,Manual,0,21,3.49,5.8667,-2.3767,2.3767
+city,2015,13.09,60076,Diesel,Dealer,Manual,0,11,8.55,11.2087,-2.6587,2.6587
+Hero Passion X pro,2016,0.55,31000,Petrol,Individual,Manual,0,10,0.5,0.5611,-0.0611,0.0611
+Yamaha FZ S V 2.0,2015,0.84,58000,Petrol,Individual,Manual,0,11,0.55,0.7244,-0.1744,0.1744
+Hero Honda CBZ extreme,2011,0.787,75000,Petrol,Individual,Manual,0,15,0.38,0.3366,0.0434,0.0434
+i20,2012,6.79,52132,Diesel,Dealer,Manual,0,14,3.1,3.5287,-0.4287,0.4287
+ciaz,2015,8.92,42367,Diesel,Dealer,Manual,0,11,7.45,6.8905,0.5595,0.5595
+jazz,2016,8.5,15059,Petrol,Dealer,Automatic,0,10,7.4,6.805,0.595,0.595
+ciaz,2015,9.94,15000,Petrol,Dealer,Automatic,0,11,7.5,7.6666,-0.1666,0.1666
+fortuner,2012,30.61,104707,Diesel,Dealer,Automatic,0,14,14.9,15.6886,-0.7886,0.7886
+Yamaha FZ S V 2.0,2015,0.84,23000,Petrol,Individual,Manual,0,11,0.48,0.6111,-0.1311,0.1311
+amaze,2014,7.0,36054,Petrol,Dealer,Manual,0,12,3.9,4.1329,-0.2329,0.2329
+alto k10,2010,3.95,44542,Petrol,Dealer,Manual,0,16,1.95,2.2076,-0.2576,0.2576
+Bajaj Pulsar RS200,2016,1.26,5700,Petrol,Individual,Manual,0,10,1.05,0.894,0.156,0.156
+brio,2015,5.9,60000,Petrol,Dealer,Manual,0,11,4.0,4.4844,-0.4844,0.4844
+Bajaj Avenger Street 220,2011,0.95,24000,Petrol,Individual,Manual,0,15,0.45,0.4134,0.0366,0.0366
+jazz,2016,8.4,12000,Petrol,Dealer,Manual,0,10,6.4,6.6226,-0.2226,0.2226
+swift,2011,4.99,20000,Petrol,Dealer,Manual,0,15,3.0,2.8248,0.1752,0.1752
+Activa 3g,2016,0.54,500,Petrol,Individual,Automatic,0,10,0.45,0.5569,-0.1069,0.1069
+Hero Glamour,2013,0.57,18000,Petrol,Individual,Manual,0,13,0.25,0.351,-0.101,0.101
+sx4,2011,7.74,49998,CNG,Dealer,Manual,0,15,2.95,3.1879,-0.2379,0.2379
+amaze,2015,7.5,44000,Petrol,Dealer,Automatic,0,11,5.75,4.3864,1.3636,1.3636
+etios gd,2015,7.85,40000,Diesel,Dealer,Manual,0,11,4.75,6.4003,-1.6503,1.6503
+Honda Karizma,2010,1.05,213000,Petrol,Individual,Manual,0,16,0.31,0.0822,0.2278,0.2278
+brio,2015,6.1,31427,Petrol,Dealer,Manual,0,11,5.4,4.7109,0.6891,0.6891
+i20,2010,6.79,58000,Diesel,Dealer,Manual,1,16,3.25,2.5987,0.6513,0.6513
